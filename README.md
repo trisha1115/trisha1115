@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=<trisha1115>&label=Profile+Views&color=2f81f7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=trisha1115&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
 
 ## About Me 👤
