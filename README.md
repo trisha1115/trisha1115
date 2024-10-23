@@ -4,16 +4,14 @@
 ## About Me 👤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer)](https://git.io/typing-svg)
 
-**trisha1115/trisha1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🔭 I’m currently working on open source projects
+ I’m currently working on building my skillset.
 
+ I’m looking to collaborate on AITR's open source project
 
-👯 I’m looking to collaborate on AITR's open source project
+ I’m currently learning JAVA SCRIPT
 
-🌱 I’m currently learning JAVA SCRIPT
-
-💬 Ask me about Tech and Open Source
+ Ask me about Tech and Open Source
 
 
 ## ⚙️ Tech Stack
@@ -39,6 +37,5 @@
 
 ![<your-first-name>'s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-github-username>&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
 
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- I’m currently learning web development.
+- I envision collaborating through joint projects or workshops, where we can combine our strengths to tackle challenges and drive meaningful outcomes.
