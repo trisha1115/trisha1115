@@ -18,7 +18,7 @@
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,,cpp,c)](https://skills.thijs.gg)
 
 ## ❤️ Session's Attended
 
