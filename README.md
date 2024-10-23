@@ -11,11 +11,10 @@
 
 👯 I’m looking to collaborate on AITR's open source project
 
-🌱 I’m currently learning Angular
+🌱 I’m currently learning JAVA SCRIPT
 
 💬 Ask me about Tech and Open Source
 
-⚡ Fun fact, I can code in day and night both
 
 ## ⚙️ Tech Stack
 
