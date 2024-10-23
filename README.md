@@ -18,11 +18,11 @@
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,,cpp,c)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,c)](https://skills.thijs.gg)
 
-## ❤️ Session's Attended
+##  Session's Attended
 
-- #### Understanding Open Source by MU-ACM & [Atharv Vani](https://www.linkedin.com/in/atharv-vani110/)
+- #### Understanding Open Source by AITR-ACM & GDG-AITR 
 
 ## 🤝 Let's get Connected
 <div align="left">
