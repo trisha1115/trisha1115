@@ -7,8 +7,6 @@
 
  I’m currently working on building my skillset.
 
- I’m looking to collaborate on AITR's open source project
-
  I’m currently learning JAVA SCRIPT
 
  Ask me about Tech and Open Source
